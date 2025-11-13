@@ -75,7 +75,7 @@ To simplify classification:
 ## 💻 Technologies Used
 - **Programming Language:** Python 3.10+  
 - **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
-- **Environment:** Google Colab / VS Code  
+- **Environment:** Google Colab / VS Code / Jupyter Notebook 
 - **Dataset Source:** UCI Repository / Kaggle  
 
 ---
